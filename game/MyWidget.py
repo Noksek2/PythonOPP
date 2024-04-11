@@ -1,5 +1,5 @@
 import pygame
 from pygame.locals import *
-class SimpleText:
+class MyText:
     def __init__(self):
         pass
